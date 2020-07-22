@@ -28,6 +28,6 @@ Esse pequeno projeto tem a função de calcular as calorias do usuário de acord
 O projeto foi divido em 4 partes: 
 
 - Estrutura base do projeto
-- Estilizaão
+- Estilização
 - Desenvolvimento do script
 - Teste final
