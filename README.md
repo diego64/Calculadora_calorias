@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse pequeno projeto tem a função de calcular as calorias do usuário de acordo com as informações inseridas e ao final informar o que é necessário para peder as calorias a mais em cima do peso ideal para a altua fornecida.
 
-## 🔨 Desenvolvimento 
+## 🔨 Desenvolvimento
 
 O projeto foi divido em 4 partes: 
 
